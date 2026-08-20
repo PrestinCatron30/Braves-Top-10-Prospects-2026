@@ -10,3 +10,4 @@
 | **4** | Alex Lodise | SS | AA | 50 | | 
 | **5** | AJ Gracia | OF | | 50 | |
 | **6** | John Gil | SS | AA | 50 | |
+| **7** | Conor Essenburg | A+ | 50 | |
