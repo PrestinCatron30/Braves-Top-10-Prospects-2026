@@ -6,3 +6,4 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1** | Tate Southisene | SS/2B | AA | 55 | |
 | **2** | Eric Hartman | OF | AA | 55 | |
+| **3** | Cam Caminiti | LHP | AA | 55 | |
