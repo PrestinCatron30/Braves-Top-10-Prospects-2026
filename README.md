@@ -9,7 +9,7 @@
 | **3** | Cam Caminiti | LHP | AA | 55 | Caminiti has frontline starter upside with his great athleticism and mid 90's fastball to go along with his great gyro slider. If he can consistently land his secondary pitches on both sides of the plate and tunnel his changeup better off his 4 seam he could be a great #2 | 
 | **4** | Alex Lodise | SS | AA | 50 | Lodise projects as a good defensive shortstop if he can clean up his glove and footwork to pair with his solid arm. Offensively he profiles as an average contact hitting shortstop with 25 plus home run potential if he can tone down his chase rates and make better swing decisions. | 
 | **5** | AJ Gracia | OF | FCL | 50 | Gracia profiles as a left fielder because of his fringe average arm though he had good instincts and clean routes in college. Offensively he should be able to hit for good contact and average to above average pop. He also had a great eye and plate discipline in college. |
-| **6** | John Gil | SS | AA | 50 | |
+| **6** | John Gil | SS | AA | 50 | Gil has elite speed and great base stealing instincts making him a threat on the basepaths. Offensively he has good contact rates and a good eye and could reach 15 to 20 home runs a year if he can consistently hit the ball in the air. Defensively he should stick at shortstop with a great ability to cover ground with soft hands and clean actions he has a average arm can clean up his throwing accuracy especially when making deep plays from the grass. |
 | **7** | Conor Essenburg | OF | A+ | 50 | |
 | **8** | Jensen Hirschkorn | RHP | FCL | 50 | |
 | **9** | Briggs McKenzie | LHP | A+ | 50 | |
