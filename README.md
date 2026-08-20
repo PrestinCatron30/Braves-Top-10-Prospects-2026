@@ -4,3 +4,5 @@
 
 | Rank | Player | Position | Current Level | Scouting Grade (20-80 Scale) | Projection / Ceiling (With Tweaks) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1** | Tate Southisene | SS/2B | - | 55 | |
+| **2** | Eric Hartman | OF | - | 55 | |
