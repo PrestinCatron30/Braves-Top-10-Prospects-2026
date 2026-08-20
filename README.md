@@ -2,7 +2,7 @@
 
 ## The Top 10 Rankings
 
-| Rank | Player | Position | Current Level | Scouting Grade (20-80 Scale) | Projection / Ceiling (With Tweaks) |
+| Rank | Player | Position | Current Level | Scouting Grade (20-80 Scale) | Projection / Ceiling (With Tweaks) | Prospect Savant Link |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1** | Tate Southisene | SS/2B | AA | 55 | |
 | **2** | Eric Hartman | OF | AA | 55 | |
