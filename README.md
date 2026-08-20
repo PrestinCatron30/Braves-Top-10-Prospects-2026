@@ -11,3 +11,4 @@
 | **5** | AJ Gracia | OF | | 50 | |
 | **6** | John Gil | SS | AA | 50 | |
 | **7** | Conor Essenburg | OF | A+ | 50 | |
+| **8** | Jensen Hirschkorn | RHP | | 50 | |
