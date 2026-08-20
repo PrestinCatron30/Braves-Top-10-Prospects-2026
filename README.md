@@ -4,7 +4,7 @@
 
 | Rank | Player | Position | Current Level | Scouting Grade (20-80 Scale) | Projection / Ceiling (With Tweaks) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1** | Tate Southisene | 2B/SS | AA | 55 | Tate projects to be a every day shortstop |
+| **1** | Tate Southisene | 2B/SS | AA | 55 | Tate projects to be a every day shortstop if he can lower his ground ball rate from around 48% and elevate his pull air percentage |
 | **2** | Eric Hartman | OF | AA | 55 | |
 | **3** | Cam Caminiti | LHP | AA | 55 | |
 | **4** | Alex Lodise | SS | AA | 50 | |
